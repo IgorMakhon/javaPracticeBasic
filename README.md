@@ -1,2 +1,2 @@
-# javaPracticeBasic
+# practiceRep
 my java tasks 
